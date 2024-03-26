@@ -10,4 +10,7 @@
 [lab_04](https://github.com/Sathwik-7805/AIML-LABS/blob/main/Lab04.ipynb)
 
 
+[lab_05](https://github.com/Sathwik-7805/AIML-LABS/blob/main/Lab05.ipynb)
+
+
 [lab_06](https://github.com/Sathwik-7805/AIML-LABS/blob/main/LAB06.ipynb)
