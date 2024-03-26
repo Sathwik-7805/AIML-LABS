@@ -14,3 +14,6 @@
 
 
 [lab_06](https://github.com/Sathwik-7805/AIML-LABS/blob/main/LAB06.ipynb)
+
+
+[lab_07](https://github.com/Sathwik-7805/AIML-LABS/blob/main/Lab_07.ipynb)
