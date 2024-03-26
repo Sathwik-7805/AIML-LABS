@@ -20,3 +20,6 @@
 
 
 [lab_08](https://github.com/Sathwik-7805/AIML-LABS/blob/main/Lab_08.ipynb)
+
+
+[lab_09](https://github.com/Sathwik-7805/AIML-LABS/blob/main/Lab09_RF_Classification.ipynb)
